@@ -1,0 +1,12 @@
+Код написан не по pep8(https://yandex.ru/search/?text=pep8&lr=213&clid=2270455&win=488):
+
+7-10 строки - E128 (https://www.flake8rules.com/rules/E128.html)
+
+11-13 - E262 (https://www.flake8rules.com/rules/E262.html)
+
+13 - E501 (https://www.flake8rules.com/rules/E501.html)
+
+W391 (https://www.flake8rules.com/rules/W391.html)
+
+Есть и другие замечания по pep8. Чтобы писать код по соглашению pep8 можно настроить свой графический редактор кода так, чтобы он подсвечивал сразу замечания согласно pep8.
+Также есть хороший помощник flake8. В файле с зависимостями он также у тебя есть
